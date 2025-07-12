@@ -1,0 +1,7 @@
+To unzip the trained celeba model:
+
+cat part_celeba_trained_a* > imgs.tar.gz
+tar -zxvf imgs.tar.gz
+
+To use this model:
+mv diffusion_celeba_hq_16_128x128_pv_epoch_40.pth ../
