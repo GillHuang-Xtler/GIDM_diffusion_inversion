@@ -6,4 +6,4 @@ Code repository for paper "GIDM: Gradient Inversion of Federated Diffusion Model
 # To run this file
 
 - requirements: pytorch 2.3.0, torchvision 0.18.0
-- python run.py
+- python gidm.py
